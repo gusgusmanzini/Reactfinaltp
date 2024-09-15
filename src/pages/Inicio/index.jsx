@@ -12,7 +12,7 @@ import LoadingSpinner from '../../components/LoadingSpinner/';
 
 function Inicio() {
 
-  document.title = 'JIMP iTech - Inicio';
+  document.title = 'Iplace - Inicio';
 
 
   if (promo3 === undefined) {
@@ -35,7 +35,7 @@ function Inicio() {
             <div className="col-lg-8 text-center text-lg-start">
               {/* Título */}
               <h1 className="ls-tight font-bolder display-5 text-white mb-5">
-                ¡Somos los mejores en materia de Telefonía Celular, Accesorios y todo lo relacionado con Tecnología!
+                ¡Somos los mejores en materia de IOS y Apple
               </h1>
               {/* Texto */}
               <p className="lead text-white text-opacity-80 mb-10 w-lg-2/3">
@@ -56,7 +56,7 @@ function Inicio() {
       <section>
         <article>
           <div className="px-4 py-2 my-5 text-center d-lg-none d-xl-none">
-            <img className="d-block mx-auto img-fluid mb-4" src={tecnojimp} alt="Mundo Tech" />
+            {}
             <h1 className="display-5 fw-bold">¡Ven por tu promo!</h1>
             <div className="col-lg-6 mx-auto">
               <p className="lead mb-4">¡Bienvenidos a nuestra tienda de teléfonos y tecnología! Somos un equipo apasionado por la tecnología y nos encanta ayudar a nuestros clientes a encontrar el dispositivo perfecto que se ajuste a sus necesidades y presupuesto.</p>

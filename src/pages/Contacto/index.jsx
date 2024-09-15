@@ -6,14 +6,14 @@ function Contacto() {
     document.title = 'JIMP iTech - Contacto';
   return (
     <section className="slide-in-fwd-center">
-  {/* Formulario de contacto - no funcional basado en https://www.freecontactform.com/form-guides/html-email-form*/}
+  {}
   <div className="container  mt-5 mb-5 ">
     <div className="row m-0">
       <div className="col-md-3 bg-custom p-0 d-flex text-center  mx-auto justify-content-center flex-column">
         <h3 className="mb-2 text-white">Info</h3>
         <div className="info text-light .fs-6">
           Carrera 5ta con 16 Cali
-          <p>info@jimpitech.com</p>
+          <p>info@iplace.com</p>
           3154785236
           <div className="social-icons">
           </div>
